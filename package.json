@@ -1,0 +1,15 @@
+{
+  "name": "tldiv",
+  "version": "1.0.0",
+  "description": "Um simples bot de divulgação.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "ODANi",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "discord.js": "^11.6.0"
+  }
+}
